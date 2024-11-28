@@ -1,4 +1,4 @@
-This is a begginer project to explore the front end web technologies by making  amazon home page using css and html by following   the tutorial online
+This is a begginer project to explore the front end web technologies by making  amazon home page using css and html by following   the online
  tutorial youtube link: https://www.youtube.com/watch?v=nGhKIC_7Mkk&t=269s
  
  
